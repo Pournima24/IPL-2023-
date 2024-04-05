@@ -1,6 +1,5 @@
 # IPL 2023 Analysis 
 
-![IPL 2023 Logo](https://en.wikipedia.org/wiki/2023_Indian_Premier_League#/media/File:TATA_IPL_2023_Logo.png)
 
 Welcome to the IPL 2023 Analysis project! This repository contains Python code for analyzing IPL (Indian Premier League) 2023 data using the Plotly library. This analysis aims to uncover insights, trends, and patterns from the IPL matches in 2023.
 
